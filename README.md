@@ -32,13 +32,14 @@ python train.py
 ```
 
 ### **2. Test the Model**
-
+```sh
 python test.py --image path/to/image.jpg
+```
 
 ### **3. Run the Web Application**
-
+```sh
 python app.py
-
+```
 
 ## **Evaluation Metrics**
 | Metric  | Value |
