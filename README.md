@@ -1,4 +1,4 @@
-# ***Fake Currency Note Detection ***
+# Fake Currency Note Detection
 
 ## **Overview**
 Fake currency detection is a critical task for financial institutions and businesses. This project utilizes **Convolutional Neural Networks (CNNs)** to build an image-based deep learning model capable of distinguishing between real and fake currency notes.
