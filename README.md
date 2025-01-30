@@ -27,8 +27,9 @@ Fake currency detection is a critical task for financial institutions and busine
 
 ## **Usage**
 ### **1. Train the Model**
-
+```sh
 python train.py
+```
 
 ### **2. Test the Model**
 
