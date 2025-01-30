@@ -1,1 +1,0 @@
-Latest image uploaded by the user is saved here.
